@@ -1,3 +1,4 @@
+#test
 name: 'Run App McFarland, Jaden'
 
 on: [push, pull_request]
